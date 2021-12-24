@@ -10,7 +10,7 @@ Predict credit credit risk using machine learning models.
 ## Results
 
 Naive Random Oversampling
-![This is an image](https://github.com/Fbullman/Credit_Risk_Analysis/blob/main/Predicted_high_low_risk.png)
+![This is an image]()
 
 SMOTE Oversampling
 ![This is an image](https://github.com/Fbullman/Credit_Risk_Analysis/blob/main/SMOTE.png)
